@@ -1,0 +1,24 @@
+integrated development environment(IDE) are lightweight tools designed for the purpose of writing and editing code, popular IDE includes:-
+
+Visual Studio Code (VS Code)
+Sublime Text
+Atom
+Notepad++
+
+How to set up an IDE
+
+Download and Install: Go to the official website of the IDE you've chosen and download the installer for your operating system. 
+Run the installer and follow the on-screen instructions to complete the installation.
+
+Configuration: Upon launching the IDE for the first time, you may be prompted to configure some settings such as theme preferences, 
+key bindings, and plugin installation. Customize these settings according to your preferences.
+
+Project Setup: Create a new project or open an existing one within the IDE. 
+Configure project settings such as SDKs, dependencies, and build tools as needed.
+
+Explore Features: Familiarize yourself with the features of the IDE, 
+such as code completion, debugging tools, version control integration, and project management capabilities. 
+Many IDEs offer tutorials or documentation to help you get started.
+
+Install Plugins (Optional): IDEs often support plugins or extensions that provide additional functionality. 
+Explore the available plugins and install those that enhance your workflow or support the technologies you're working with.

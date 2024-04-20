@@ -1,0 +1,5 @@
+JavaScript is a scripting/object oriented programming language that allows you to implement complex features on web pages, 
+Javascript allows inclusion of dynamic behavior to the webpages, and add special effects to the webpage. 
+On websites, it is mainly used for validation purposes. JavaScript helps us to execute complex actions and also enables the interaction of websites with visitors.
+
+most of JS applixations include Web development, single paged applications, mobile and game developments and also web/server applictions amongst others
