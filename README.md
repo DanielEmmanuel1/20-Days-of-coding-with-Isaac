@@ -18,6 +18,6 @@ in case of unplanned occurences, a simple text could exonerate you from the pena
 ## PENALTIES
 Penalties fo rnot completing your tasks would be a more gruesome learning experience, so do you choose to learn the hard way, or to learn the harder way? CHoose your poison.
 
-# PS: ALL MY CORRECTIOSN TO YOUR TASKS CAN BE FOUND UNDERNEATH YOUR CONTENT.
+# PS: ALL MY CORRECTIONS TO YOUR TASKS CAN BE FOUND UNDERNEATH YOUR CONTENT.
 That calls it for now. Let me catch some sleep and if i wake up and decide to make your life harder, i would do just that. 
 VAMOS
