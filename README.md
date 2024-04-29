@@ -31,6 +31,9 @@ write out your name followed by the sentence "I will not do it again" in Brain F
 
 yes, I'm fucking serious. DO IT !!!!!!!!!.
 
+I was kidding you though.
+find a crazy idea that would contain all you learnt in week 1 and implement it. Thats your punishment.
+
 YOU HAVE UNTIL 12 PM, APRIL 30TH 2024 UNTIL YOUR PUNISHMENT INCREASES 
 
 you also have the option of paying your way out of every punishment: NGN 5000 / Punishment 
