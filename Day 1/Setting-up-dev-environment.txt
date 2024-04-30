@@ -22,3 +22,36 @@ Many IDEs offer tutorials or documentation to help you get started.
 
 Install Plugins (Optional): IDEs often support plugins or extensions that provide additional functionality. 
 Explore the available plugins and install those that enhance your workflow or support the technologies you're working with.
+
+BASIC OPERATORS
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Remainder (%)
+Assignment Operators:
+Assignment (=)
+Addition Assignment (+=)
+Subtraction Assignment (-=)
+
+Comparison Operators:
+Equal (==): Checks if two values are equal. Example: 5 == 5; // true
+Not Equal (!=): Checks if two values are not equal. Example: 5 != 3; // true
+Strict Equal (===): Checks if two values are equal without type conversion (strict equality). Example: 5 === '5'; // false
+Strict Not Equal (!==): Checks if two values are not equal without type conversion (strict inequality). Example: 5 !== '5'; // true
+
+Logical Operators:
+AND (&&): Returns true if both operands are true. Example: true && false; // false
+OR (||): Returns true if at least one of the operands is true. Example: true || false; // true
+NOT (!): Reverses the logical state of its operand. Example: !true; // false
+
+IF STATEMENT: The if statement is used to execute a block of code if a specified condition is true.
+EXAMPLE: 
+let x = 9
+if (x > 10){
+  console.log('X is greater than 10')
+}else{
+  console.log('X is lesser than 10')
+}
+
+SWITCH STATEMENT
