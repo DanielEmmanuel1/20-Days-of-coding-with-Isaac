@@ -1,0 +1,17 @@
+WHAT ARE VARIABLES?
+VAriables are said to be a source of storing data values in Javascript
+
+VARIABLE DECLARATIONS
+Variables can be declared in various form depending on how the data is to be used, variables can be declared using eith the let, const or var Keyword
+
+let: Allows reassignment of value to a variable even after initial assignment
+const: Doeesn't allow reassignment of value to a variable after initial assignment
+var: Historically used for variable declaration, but its usage is less common nowadays
+
+
+DATA TYPES
+Number: Represents numeric values, including integers and floating-point numbers. Example: let num = 10;
+String: Represents sequences of characters enclosed within single (') or double (") quotes. Example: let str = 'Hello';
+Boolean: Represents logical values true or false. Example: let isTrue = true;
+Undefined: Represents a variable that has been declared but not assigned a value. Example: let undefinedVar;
+Null: Represents the intentional absence of any value

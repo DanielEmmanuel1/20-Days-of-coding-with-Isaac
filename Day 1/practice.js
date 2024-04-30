@@ -1,80 +1,117 @@
-// ADDITION ASSIGNMENT
-// EXAMPLE 1
-let x = 10
-x += 20
-console.log(x)
+// RUN THIS CODE FUNCTION BY FUNCTION
 
-// EXAMPLE 2
-let z = 20
-z += 80
-console.log(z)
+// const character = "#";
+// const count = 8;
+// const rows = [];
 
+// function padRow(rowNumber, rowCount) {
+//   return character.repeat(rowNumber);
+// }
 
-// IF AND ELSE STATEMENTS
-let x = 9
-if (x > 10){
-  console.log('X is greater than 10')
-}else{
-  console.log('X is lesser than 10')
-}
+// for (let i = 0; i < count; i = i + 1) {
+//   rows.push(padRow(i + 1, count));
+// }
 
-// SWITCH STATEMENTS
-// EXAMPLE 1
-let footballerName = "Suarez";
+// let result = "";
 
-switch (footballerName) {
-  case "Ronaldo":
-    console.log("Correct, this is the player");
-    break;
+// for (const row of rows) {
+//   result = result + "\n" + row;
+// }
 
-  case "Ballotelli":
-    console.log("This is Ballotelli");
-    break;
+// console.log(result);
+// console.log(rowNumber)
 
-  case "Neymar Jnr":
-    console.log("I'm Neyar ffrom Brazil");
-    break;
+// let count = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-  case "MacAllister":
-    console.log("I'm liverpool's best player currently");
+// for (const num of count){
+//     console.log(num)
+// }
 
-  default:
-    console.log("Not a players");
-}
-// EXAMPLE 2
-let fruits = "Apples";
+// let count = 10
+// for (i = 0; i < count; i++) {
+//     console.log(i)
+// }
 
-switch (fruits) {
-  case "Mangos":
-    console.log("Mangoes are yellow");
-    break;
+// let count = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// count.push(11, 12, 13, 14, 15);
 
-  case "Oranges":
-    console.log("Oranges are orange");
-    break;
+// console.log(count);
 
-  case "Strawberry":
-    console.log("Strawberries are red");
+// count = count.pop()
+// console.log(count)
 
-  default:
-    console.log("Its just not a fruit");
-}
+// const character = "#";
+// const count = 8;
+// const rows = [];
 
-// FUNCTIONS
-// EXAMPLE 1
-let title = "Mr";
-let name = "Deon"
+// function padRow(name) {
+//   return name;
+// }
 
-function myName(title, name){
-  return title + " " + name
-}
-console.log(myName("Mr", "Deon"))
+// const myArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// myArray.push(11, 12, 13, 14, 15);
+// console.log(myArray)
 
+// const count = 10;
+// for (i=0; i<count; i++){
+//   console.log(i);
+// }
 
-let title = "Mr";
-let name = "Deon";
+// let a = 2;
+// let b = 8;
 
-function myName(){
-  return title + " " + name
-}
-console.log(myName())
+// function addNumbers(){
+//   return a + b;
+// }
+
+// console.log(addNumbers());
+
+// let a = 5;
+
+// function myLetter() {
+//   a = 8;
+//   console.log(a);
+// }
+
+// myLetter();
+
+// const title = "Professor ";
+// function demo(name) {
+//   let profName = title + name;
+//   return profName;
+// }
+
+// const newName = demo("Naomi");
+
+// const stringName = `My name is ${newName}`;
+// console.log(stringName);
+
+// myName("Deon");
+
+// const newName = myName("Deon");
+
+// console.log(newName)
+
+// function padRow(name) {
+//   const test = "Testing";
+//   return test;
+// }
+// const pRow = padRow()
+// console.log(pRow)
+// console.log(padRow())
+// const call = padRow("CamperChan");
+// console.log(call);
+
+// let greetings = "Hello there";
+
+// greetings = greetings.repeat(3);
+// console.log(greetings)
+
+// const title = "Professor";
+
+// function myName(name) {
+//   const test = "Daniel";
+//   return title + " " + test;
+// }
+
+// console.log(myName());
