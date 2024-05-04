@@ -1,0 +1,12 @@
+#p1{
+    font-family: cursive;
+}
+
+#submit {
+    padding: 0.2% 2% 0.2% 2%;
+    background-color: rgb(15, 194, 222);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size:x-small
+}
