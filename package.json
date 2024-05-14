@@ -1,0 +1,12 @@
+{
+  "name": "20-days-of-coding-with-isaac",
+  "version": "1.0.0",
+  "description": "1. NO Copying of any sort. you can look at resources to get the flow but do not ever copy the code.\r 2. ChatGPT is meant for learning purposes, so if you do not understand the prompt, you can kindly ask it to explain like a 5-year-old.\r 3. All submissions are supposed to be made as of when due and for each task, your time starts from 12AM.\r 4. Make sure all text additions to your javascript code is all commented out.\r 5. There's a scoring system with 10 as the highest number of points per task and 0 as the lowest with the Pass mark set at 7. so you have to get at least 70% to pass any task.\r 6. Don't forget that creative examples or implementations of what you learn from a task fetches you bonus points, which you can exchange for fun items as soon as we can provide them.\r 7. You can choose to tweet about your progress on Twitter (doesn't fetch any bonus points)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon"
+  },
+  "author": "",
+  "license": "ISC"
+}
