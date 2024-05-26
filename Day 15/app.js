@@ -2,7 +2,6 @@
 
 // console.log(userName.length)
 
-
 // let userName = "Bethelehem"
 // console.log(userName.length)
 // console.log(userName.indexOf("B"))
@@ -17,7 +16,6 @@
 //     console.log(userName)
 // }
 
-
 // // console.log(userName.trim())
 
 // console.log(userName.toUpperCase())
@@ -31,7 +29,7 @@
 
 // let userName = "olwadamilare"
 // if(userName.startsWith("")){
-    
+
 // }
 
 // let temp = 0
@@ -60,7 +58,6 @@
 //     console.log("I dont know")
 // }
 
-
 // let isSunny = true
 
 // if(isSunny){
@@ -84,3 +81,19 @@
 // }
 
 // console.log(`Welcome ${userName}`);
+
+// let userName = prompt("Enter Username: ");
+
+// while (userName === "" || userName === null) {
+//   userName = prompt("Enter Username!!!!!!");
+// }
+// console.log(`Welcome to JavaScript ${userName}`);
+
+// let userName;
+// do {
+//     userName = prompt("Enter Username: ")
+// } while (userName === "") {
+//     userName = prompt("Enter Username")
+// }
+// alert(`Welcome ${userName}`)
+
