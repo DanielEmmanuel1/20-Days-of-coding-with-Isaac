@@ -75,27 +75,42 @@
 //   }
 // }
 
+// let minNumb = 0;
+// let maxNumb = 9999;
 
-let minNumb = 0;
-let maxNumb = 9999;
+// while (true) {
+//   let guessNumber = prompt("Guess your lucky number: ");
 
-while (true) {
-  let guessNumber = prompt("Guess your lucky number: ");
+//   if (guessNumber === null) {
+//     console.log("Game canceled by the user.");
+//     break;
+//   }
+//   guessNumber = Number(guessNumber);
+//   let luckyGuess =
+//     Math.floor((maxNumb - minNumb + 1) * Math.random()) + minNumb;
 
-  if (guessNumber === null) {
-    console.log("Game canceled by the user.");
-    break;
-  }
-  guessNumber = Number(guessNumber);
-  let luckyGuess =
-    Math.floor((maxNumb - minNumb + 1) * Math.random()) + minNumb;
+//   if (isNaN(guessNumber) || guessNumber === "") {
+//     console.error("Must be a numerical digit");
+//   } else if (guessNumber === luckyGuess) {
+//     console.log("BINGO!!!!!!!!!!");
+//     break;
+//   } else {
+//     console.log(`Your number is ${guessNumber}. Try again!`);
+//   }
+// }
 
-  if (isNaN(guessNumber) || guessNumber === "") {
-    console.error("Must be a numerical digit");
-  } else if (guessNumber === luckyGuess) {
-    console.log("BINGO!!!!!!!!!!");
-    break;
-  } else {
-    console.log(`Your number is ${guessNumber}. Try again!`);
-  }
-}
+// let myAge;
+
+// do {
+//   myAge = prompt("Enter your Age: ");
+//   myAge = Number(myAge);
+
+//   if (isNaN(myAge) || myAge <= 0) {
+//     alert("Please enter a valid number greater than 0");
+//     continue;
+//   }
+
+//   if (myAge <= 10) {
+//     console.log(++myAge);
+//   }
+// } while (myAge <= 10);
